@@ -1,4 +1,4 @@
-# jungle-db [![Build Status](https://travis-ci.org/nimiq-network/jungle-db.svg?branch=master)](https://travis-ci.org/nimiq-network/jungle-db)
+# jungle-db [![Build Status](https://travis-ci.org/nimiq/jungle-db.svg?branch=master)](https://travis-ci.org/nimiq/jungle-db)
 
 JungleDB is a simple database abstraction layer for NodeJS (LMDB or LevelDB) and browsers (IndexedDB) supporting advanced features such as transactions with read-isolation and secondary indices.
 
@@ -158,7 +158,7 @@ A large fraction of the code is documented using [ESDoc](https://esdoc.org) and 
 
 ## Installing from Source
 
-1. Clone this repository `git clone https://github.com/nimiq-network/jungle-db`.
+1. Clone this repository `git clone https://github.com/nimiq/jungle-db`.
 2. Run `npm install` or `yarn`
 3. Run `npm run build` or `yarn build`
 4. Open `clients/browser/index.html` in your browser to access a simple browser example.
@@ -217,7 +217,7 @@ Executing `npm run build` or `yarn build` concatenates all sources into `dist/{i
 
 ## Contribute
 
-If you'd like to contribute to the development of JungleDB please follow our [Code of Conduct](https://github.com/nimiq-network/core/blob/master/.github/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/nimiq-network/core/blob/master/.github/CONTRIBUTING.md).
+If you'd like to contribute to the development of JungleDB please follow our [Code of Conduct](https://github.com/nimiq/core-js/blob/master/.github/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/nimiq/core-js/blob/master/.github/CONTRIBUTING.md).
 
 ## License
 
